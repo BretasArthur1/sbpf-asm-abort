@@ -1,6 +1,6 @@
 PHDRS
 {
-  text    PT_LOAD FLAGS(1)    ; # Contains our executable code and constants
+  text    PT_LOAD FLAGS(1)    ; 
 }
 
 SECTIONS
